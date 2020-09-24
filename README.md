@@ -1,6 +1,6 @@
 ### useEffect demo
 in this project you can see the diffrent uses for useEffect hook in react js:
-1. componentDidUpdate without s condition
+1. componentDidUpdate without a condition
 2. componentDidUpdate with a condition
 3. componentDidMount
 
