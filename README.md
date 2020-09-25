@@ -4,7 +4,7 @@ In this project you can see the diffrent uses for useEffect hook in react js:
 2. componentDidUpdate with a condition : a certain state in second argument
 3. componentDidMount : empty array in seconed argument 
 
-we can also clean up our component when we need to prevent memroy leaks or reset value by using the return function in useEffect
+we can also clean up our component when we need to prevent memory leaks or reset value by using the return function in useEffect
  useEffect(() => {
         effect
         return () => {
